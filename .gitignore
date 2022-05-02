@@ -2,3 +2,4 @@
 *.env
 *.swp
 src/
+wchschem.js
