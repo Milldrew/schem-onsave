@@ -1,0 +1,8 @@
+#!/usr/bin/env node
+/*
+  Watches src directory watches src directory when a file is saved it executes schematics.: 
+as a child proce
+then destroys the cp if it already exist
+  */
+console.log("Hello world");
+console.log("goodbye");
